@@ -1,9 +1,4 @@
 # Tokenmaster
-[https://github.com/veer-chheda/tokenmaster/assets/114056626/cf0bb507-d389-4fd0-a7e2-f7f695ac79a4](https://github-production-user-asset-6210df.s3.amazonaws.com/114056626/279923136-cf0bb507-d389-4fd0-a7e2-f7f695ac79a4.mp4)
-'Connect to your local hardhat node using metamask wallet'
-
-[https://github.com/veer-chheda/tokenmaster/assets/114056626/b9bb089c-c012-4a45-b601-2f0d7ebd36be](https://github-production-user-asset-6210df.s3.amazonaws.com/114056626/279927086-b9bb089c-c012-4a45-b601-2f0d7ebd36be.mp4)
-'Tickets are converted to NFTs which makes their sale more transparent and prohibits bots from mass purchase of tickets'
 
 ## Technology Stack & Tools
 
@@ -36,4 +31,3 @@ In a separate terminal execute:
 
 ### 6. Start frontend
 `$ npm run start`
-
